@@ -1,0 +1,12 @@
+
+{
+  "expo": {
+    "name": "Maison Douce",
+    "slug": "maison-douce",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "fr.maisondouce.famille"
+    }
+  }
+}
